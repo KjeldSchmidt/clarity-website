@@ -8,11 +8,13 @@ description: Our background, experience and values
 
 <p>
 <span class="image left"><img src="{% link assets/images/ammara-headshot.jpg %}" alt="" /></span>
-Ammara is a razor-sharp technologist and business analyst with years of
-experience across multiple industries, and has had a particular focus on 
-Data Mesh in the last years, putting her at the forefront of this new 
-technological paradigm. She has talked about the way to successful data at
-Big Data LDN, {Women Being Badass in Data, other things...}
+Ammara is a principal technology consultant, specializing at the intersection of
+healthcare/pharma and data. She is an expert on Data Products, Data Mesh, Data 
+Governance and Value Driven Decision Making. In her last role she co-created and
+implemented a Data Mesh strategy that spanned over 21 business domains, 
+consistently aiming for and achieving shorter lead times to business outcomes by
+10-30%. She distinguishes herself by addressing the underlying 'why' of issues 
+before shaping the 'how' of solutions.
 
 <br>
 <br>

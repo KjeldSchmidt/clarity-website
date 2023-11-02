@@ -6,6 +6,15 @@ image: assets/images/happy-balloons.jpg
 nav-menu: true
 ---
 
+Scott Hirleman (Host of [Data Mesh Radio](https://daappod.com/data-mesh-radio/)) 
+
+> I don't know if I've learned more about data mesh in any single conversation 
+> than I did speaking with Ammara. And it was probably my ~200th conversation 
+> and ~100th podcast interview on data mesh. She's thought through so many 
+> aspects at a deep level, not just the tactical but the why behind the small 
+> tactical decisions. Clear thoughts with good anecdotes and the high empathy
+> data mesh requires. If you get a chance to speak with her on data mesh, take it!
+
 Omar Khawaja (Head Business Intelligence at Roche) says:
 > Highly grateful to Ammara Gafoor, Kiran Prakash, Ian Murdoch, Emily Gorcenski,
 > Zhamak Dehgani - it has been a please collaborating with you all and learning 
