@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 **Data Mesh Accelerate Workshop**
-a workshop guide by Paulo Caroli and Steve Upton.
+A workshop guide by Paulo Caroli and Steve Upton.
 
 When an organisation actually wants to commit to a Data Mesh strategy, there are
 important decisions to be made and goals to be aligned. A core tenant of the
@@ -23,8 +23,7 @@ Read [Data Mesh Accelerate Workshop](https://martinfowler.com/articles/data-mesh
 on Martin Fowler's website.
 
 **Why Data Mesh and How to Make it a Reality**
-a webinar by Data Mesh Experts
-from Collibra, Roche, Accenture and Thoughtworks
+A webinar by Data Mesh Experts from Collibra, Roche, Accenture and Thoughtworks
 
 > Data mesh is making waves for enterprises’ business decisions across the globe.
 > But what is it and how does an org implement it seamlessly?
@@ -35,11 +34,8 @@ from Collibra, Roche, Accenture and Thoughtworks
 
 [Watch the Webinar](https://www.collibra.com/us/en/resources/why-data-mesh-and-how-to-make-it-a-reality)
 
-
-https://www.thoughtworks.com/insights/blog/data-strategy/dev-experience-data-mesh-platform
-
 **Surfacing reliability SLIs and SLOs can boost adoption**
-with founder and CEO of Monte Carlo, Barr Moses
+With founder and CEO of Monte Carlo, Barr Moses
 
 > Have you ever come across an internal data product and side-eyed it like it’s
 > your kid’s prom date? While it seems like it fits the requirements, you don’t
@@ -58,7 +54,7 @@ Read more about building trustworthy data products in [Building an Amazon.com
 for your Data Products](https://www.thoughtworks.com/insights/blog/data-strategy/building-an-amazon-com-for-your-data-products).
 
 **Data Mesh in Practice**
-with Ammara Gafoor
+With Ammara Gafoor
 
 Ultimately, nothing beats real-world experience. In this free eBook, we captured 
 insights and experiences from implementing Data Mesh at Roche, one of the world's
@@ -68,7 +64,7 @@ largest healthcare companies.
 
 
 **Data Mesh Principles**
-by Zhamak Dehghani
+By Zhamak Dehghani
 
 In this foundational text, Zhamak Dehghani refines and encapsulates the core 
 principles of the Data Mesh approach (though she 
@@ -81,3 +77,16 @@ distinct "DevOps Teams" and "Development Teams".
 
 [Read the article](https://martinfowler.com/articles/data-mesh-principles.html). 
 If you want even more, the full-fledged book is also linked there.
+
+**A streamlined developer experience in Data Mesh**
+By Manisha Jain
+
+From the Data Catalog to Deployment and Orchestration, empowered teams still 
+need to interact with common resources, or can share common approaches and 
+patterns.
+
+By creating a great Developer Experience to integrate with your organization's
+Data Mesh, teams are enabled to create unique and valuable Data Products instead
+of fussing with the same details as every other team.
+
+Read about [how to offer a streamlined developer experience in Data Mesh](https://www.thoughtworks.com/insights/blog/data-strategy/dev-experience-data-mesh-platform)
