@@ -6,41 +6,38 @@ image: assets/images/happy-balloons.jpg
 nav-menu: true
 ---
 
-Omar Khawaja (Head Business Intelligence at Roche): Highly grateful to Ammara 
-Gafoor, Kiran Prakash, Ian Murdoch, Emily Gorcenski, Zhamak Dehgani - it has 
-been a please collaborating with you all and learning so much.
+Omar Khawaja (Head Business Intelligence at Roche) says:
+> Highly grateful to Ammara Gafoor, Kiran Prakash, Ian Murdoch, Emily Gorcenski,
+> Zhamak Dehgani - it has been a please collaborating with you all and learning 
+> so much.
 
-Omar Khawaja (Head Business Intelligence at Roche): Humbled to be part of this 
-publication. (Discover how to turn insights into business value with Data Mesh)
-
-Omar Khawaja (Head Business Intelligence at Roche): 
 > Great stuff to see these demos. Thanks for your partnership.
 > And thanks for teaching us, we are leaning and hence we are growing and making progress
 
-Julie:
+Julie says:
 > Everything you've done makes my life so much simpler, I cannot tell you hot thankful I am
 
-Joe Eschenberenner:
+Joe Eschenberenner says:
 > Gamechanger, it's going to change what we do, and we will do it better
 
-Steffen Gappisch:
+Steffen Gappisch says:
 > Thank you very much! Amazing what was reached in 3 months.
 
-Lansing:
+Lansing says:
 > I've been struggling to get this data for five years, I don't know how you
 > made it in three months.
 
-Michael Eaton:
+Michael Eaton says:
 > This has given us some amazing insights, thanks for setting it up
 
-Anahita Habidollahi:
+Anahita Habidollahi says:
 > Thank you all very much for your great work. I also got personal feedback from
 > others, that it was a very nice workhop full of practical learnings. Appreciated.
 
-Sean Casey:
+Sean Casey says:
 > Thank you everyone for the great analysis and recommendations
 
-Victoria Pickering:
+Victoria Pickering says:
 > Thank you so much for a great engagement and experience! We really enjoyed 
 > working with you and learning from you! And I hope to have an opportunity to 
 > work with you again in the future! 
