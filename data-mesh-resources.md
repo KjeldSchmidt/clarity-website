@@ -22,6 +22,8 @@ the transition of your organisation going from "talking about Data Mesh" to
 Read [Data Mesh Accelerate Workshop](https://martinfowler.com/articles/data-mesh-accelerate-workshop.html) 
 on Martin Fowler's website.
 
+---
+
 **Why Data Mesh and How to Make it a Reality**
 A webinar by Data Mesh Experts from Collibra, Roche, Accenture and Thoughtworks
 
@@ -33,6 +35,8 @@ A webinar by Data Mesh Experts from Collibra, Roche, Accenture and Thoughtworks
 > perspectives on data mesh.
 
 [Watch the Webinar](https://www.collibra.com/us/en/resources/why-data-mesh-and-how-to-make-it-a-reality)
+
+---
 
 **Surfacing reliability SLIs and SLOs can boost adoption**
 With founder and CEO of Monte Carlo, Barr Moses
@@ -53,6 +57,8 @@ makes no claims that it will stay that way might not be okay.
 Read more about building trustworthy data products in [Building an Amazon.com 
 for your Data Products](https://www.thoughtworks.com/insights/blog/data-strategy/building-an-amazon-com-for-your-data-products).
 
+---
+
 **Data Mesh in Practice**
 With Ammara Gafoor
 
@@ -62,6 +68,8 @@ largest healthcare companies.
 
 [Get the free Data Mesh in Practice eBook here](https://www.thoughtworks.com/en-de/insights/e-books/data-mesh-in-practice).
 
+
+---
 
 **Data Mesh Principles**
 By Zhamak Dehghani
@@ -77,6 +85,8 @@ distinct "DevOps Teams" and "Development Teams".
 
 [Read the article](https://martinfowler.com/articles/data-mesh-principles.html). 
 If you want even more, the full-fledged book is also linked there.
+
+---
 
 **A streamlined developer experience in Data Mesh**
 By Manisha Jain
