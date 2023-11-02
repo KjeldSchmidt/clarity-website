@@ -7,18 +7,18 @@ show_tile: false
 nav-menu: true
 ---
 
-*Angaben gem. § 5 TMG:*
+**Angaben gem. § 5 TMG:**
 
 Kjeld Schmidt
 Rochusstraße 54
 50827 Köln
 
-*Kontaktaufnahme:*
+**Kontaktaufnahme:**
 
 Telefon: +4915757040807
 E-Mail: contact@kjeld-schmidt.com
 
-*Haftungsausschluss – Disclaimer:*
+**Haftungsausschluss – Disclaimer:**
 
 Haftung für Inhalte
 
@@ -27,7 +27,7 @@ Alle Inhalte unseres Internetauftritts wurden mit größter Sorgfalt und nach be
 Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntniserlangung einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von den o.g. Rechtsverletzungen werden wir diese Inhalte unverzüglich entfernen.
 
 
-*Haftungsbeschränkung für externe Links*
+**Haftungsbeschränkung für externe Links**
 
 Unsere Webseite enthält Links auf externe Webseiten Dritter. Auf die Inhalte dieser direkt oder indirekt verlinkten Webseiten haben wir keinen Einfluss. Daher können wir für die „externen Links“ auch keine Gewähr auf Richtigkeit der Inhalte übernehmen. Für die Inhalte der externen Links sind die jeweilige Anbieter oder Betreiber (Urheber) der Seiten verantwortlich.
 
@@ -38,6 +38,6 @@ Diese Haftungsausschlusserklärung gilt auch innerhalb des eigenen Internetauftr
 Werden uns Rechtsverletzungen bekannt, werden die externen Links durch uns unverzüglich entfernt.
 
 
-*Urheberrecht*
+**Urheberrecht**
 
 Die auf unserer Webseite veröffentlichen Inhalte und Werke unterliegen dem deutschen Urheberrecht (http://www.gesetze-im-internet.de/bundesrecht/urhg/gesamt.pdf) . Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung des geistigen Eigentums in ideeller und materieller Sicht des Urhebers außerhalb der Grenzen des Urheberrechtes bedürfen der vorherigen schriftlichen Zustimmung des jeweiligen Urhebers i.S.d. Urhebergesetzes (http://www.gesetze-im-internet.de/bundesrecht/urhg/gesamt.pdf ). Downloads und Kopien dieser Seite sind nur für den privaten und nicht kommerziellen Gebrauch erlaubt. Sind die Inhalte auf unserer Webseite nicht von uns erstellt wurden, sind die Urheberrechte Dritter zu beachten. Die Inhalte Dritter werden als solche kenntlich gemacht. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte unverzüglich entfernen.
