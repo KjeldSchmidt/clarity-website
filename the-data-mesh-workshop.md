@@ -6,7 +6,7 @@ image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
-## Unlock the Power of Data Mesh: A Workshop for {TARGET AUDIENCE DESCRIPTOR?} 👩‍💼
+## Unlock the Power of Data Mesh: A Workshop for Data Conscious Leadership
 
 Data Mesh is a powerful approach to data architecture in complex data
 architectures - when done right, it can pave the way to fast and powerful data
@@ -31,6 +31,18 @@ At our workshop, you'll learn how to harness the power of Data Mesh to:
 - Improve data quality and reliability.
 - Empower your teams to become data-driven and collaborative.
 - Gain cross-functional insights and discover new value streams.
+
+### Who is this for? 👩‍💼
+
+The workshop, content and exercises are tailored for  
+
+- Business professionals working on data rich projects
+- BI professionals
+- Business and Tech leads
+- Tech Adjacent roles: Business Analysts, QA's, XD's, UX professionals
+
+The content is focused on principles, strategy and inception of Data Mesh and 
+Data Products, not on the technical details of implementation and infrastructure.
 
 ### What You'll Gain 📦
 
