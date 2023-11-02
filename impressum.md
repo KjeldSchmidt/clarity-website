@@ -9,14 +9,14 @@ nav-menu: true
 
 **Angaben gem. § 5 TMG:**
 
-Kjeld Schmidt
-Rochusstraße 54
-50827 Köln
+Kjeld Schmidt  
+Rochusstraße 54  
+50827 Köln  
 
 **Kontaktaufnahme:**
 
-Telefon: +4915757040807
-E-Mail: contact@kjeld-schmidt.com
+Telefon: +4915757040807  
+E-Mail: contact@kjeld-schmidt.com  
 
 **Haftungsausschluss – Disclaimer:**
 
