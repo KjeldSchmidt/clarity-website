@@ -88,7 +88,7 @@ If you want even more, the full-fledged book is also linked there.
 
 ---
 
-**A streamlined developer experience in Data Mesh**  
+**A Streamlined Developer Experience in Data Mesh**  
 By Manisha Jain
 
 From the Data Catalog to Deployment and Orchestration, empowered teams still 
