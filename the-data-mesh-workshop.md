@@ -45,4 +45,4 @@ By the end of this workshop, you'll leave with:
 **Limited spots available - Reserve your place now!**
 
 For inquiries, use our contact form below.
-To register, visit our [Eventbrite page](https://www.eventbrite.com/manage/events/auto-create/741963110637).
+To register, visit our [Eventbrite page](http://insert-link.here).
