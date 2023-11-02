@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-image: assets/images/pic01.jpg
+image: assets/images/ammara-being-cool.jpg
 nav-menu: true
 description: Our background 
 ---
