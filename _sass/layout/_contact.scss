@@ -11,7 +11,7 @@
 	overflow-x: hidden;
 
 	@include vendor('display', 'flex');
-	padding: 0 !important;
+	padding: 3rem;
 
 	> form {
 		margin: 0 auto;
