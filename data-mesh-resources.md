@@ -6,8 +6,8 @@ image: assets/images/scattered-books.jpg
 nav-menu: true
 ---
 
-**Data Mesh Accelerate Workshop**
-A workshop guide by Paulo Caroli and Steve Upton.
+**Data Mesh Accelerate Workshop**  
+A workshop outline by Paulo Caroli and Steve Upton.
 
 When an organisation actually wants to commit to a Data Mesh strategy, there are
 important decisions to be made and goals to be aligned. A core tenant of the
@@ -24,7 +24,7 @@ on Martin Fowler's website.
 
 ---
 
-**Why Data Mesh and How to Make it a Reality**
+**Why Data Mesh and How to Make it a Reality**  
 A webinar by Data Mesh Experts from Collibra, Roche, Accenture and Thoughtworks
 
 > Data mesh is making waves for enterprises’ business decisions across the globe.
@@ -38,7 +38,7 @@ A webinar by Data Mesh Experts from Collibra, Roche, Accenture and Thoughtworks
 
 ---
 
-**Surfacing reliability SLIs and SLOs can boost adoption**
+**Surfacing reliability SLIs and SLOs can boost adoption**  
 With founder and CEO of Monte Carlo, Barr Moses
 
 > Have you ever come across an internal data product and side-eyed it like it’s
@@ -59,7 +59,7 @@ for your Data Products](https://www.thoughtworks.com/insights/blog/data-strategy
 
 ---
 
-**Data Mesh in Practice**
+**Data Mesh in Practice**  
 With Ammara Gafoor
 
 Ultimately, nothing beats real-world experience. In this free eBook, we captured 
@@ -71,7 +71,7 @@ largest healthcare companies.
 
 ---
 
-**Data Mesh Principles**
+**Data Mesh Principles**  
 By Zhamak Dehghani
 
 In this foundational text, Zhamak Dehghani refines and encapsulates the core 
@@ -88,7 +88,7 @@ If you want even more, the full-fledged book is also linked there.
 
 ---
 
-**A streamlined developer experience in Data Mesh**
+**A streamlined developer experience in Data Mesh**  
 By Manisha Jain
 
 From the Data Catalog to Deployment and Orchestration, empowered teams still 
