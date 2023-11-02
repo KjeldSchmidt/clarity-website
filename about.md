@@ -11,10 +11,13 @@ description: Our background
 Ammara is a razor-sharp technologist and business analyst with years of
 experience across multiple industries, and has had a particular focus on 
 Data Mesh in the last years, putting her at the forefront of this new 
-technological paradigm.    
+technological paradigm. She has talked about the way to successful data at
+Big Data LDN, {Women Being Badass in Data, other things...}
 </p>
 
 <p>
 <span class="image right"><img src="{% link assets/images/kjeld-headshot.jpg %}" alt="" /></span>
-Kjeld is a software developer with a keen mind for simplifaction and essentials.
+Kjeld is a software developer with a keen mind for simplicity and essentials.
+He advocates for human-driven development, open platforms and rapid 
+experimentation.
 </p>
