@@ -4,6 +4,7 @@ title: Impressum
 description: Legal Information
 image: assets/images/pic11.jpg
 show_tile: false
+nav-menu: true
 ---
 
 *Angaben gem. § 5 TMG:*
