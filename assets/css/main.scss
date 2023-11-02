@@ -43,7 +43,7 @@
 			max-width: _size(inner);
 			width: calc(100% - 6em);
 
-			:after {
+			:not(a):after {
 				content: "";
 				display: table;
 				clear: both;

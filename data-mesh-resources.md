@@ -6,7 +6,8 @@ image: assets/images/scattered-books.jpg
 nav-menu: true
 ---
 
-**Data Mesh Accelerate Workshop**, a workshop guide by Paulo Caroli and Steve Upton.
+**Data Mesh Accelerate Workshop**
+a workshop guide by Paulo Caroli and Steve Upton.
 
 When an organisation actually wants to commit to a Data Mesh strategy, there are
 important decisions to be made and goals to be aligned. A core tenant of the
@@ -21,7 +22,8 @@ the transition of your organisation going from "talking about Data Mesh" to
 Read [Data Mesh Accelerate Workshop](https://martinfowler.com/articles/data-mesh-accelerate-workshop.html) 
 on Martin Fowler's website.
 
-**Why Data Mesh and How to Make it a Reality**, a webinar by Data Mesh Experts
+**Why Data Mesh and How to Make it a Reality**
+a webinar by Data Mesh Experts
 from Collibra, Roche, Accenture and Thoughtworks
 
 > Data mesh is making waves for enterprises’ business decisions across the globe.
@@ -36,7 +38,8 @@ from Collibra, Roche, Accenture and Thoughtworks
 
 https://www.thoughtworks.com/insights/blog/data-strategy/dev-experience-data-mesh-platform
 
-**Surfacing reliability SLIs and SLOs can boost adoption**, with CEO of Monte Carlo
+**Surfacing reliability SLIs and SLOs can boost adoption**
+with founder and CEO of Monte Carlo, Barr Moses
 
 > Have you ever come across an internal data product and side-eyed it like it’s
 > your kid’s prom date? While it seems like it fits the requirements, you don’t
@@ -54,7 +57,8 @@ makes no claims that it will stay that way might not be okay.
 Read more about building trustworthy data products in [Building an Amazon.com 
 for your Data Products](https://www.thoughtworks.com/insights/blog/data-strategy/building-an-amazon-com-for-your-data-products).
 
-**Data Mesh in Practice**, with Ammara Gafoor
+**Data Mesh in Practice**
+with Ammara Gafoor
 
 Ultimately, nothing beats real-world experience. In this free eBook, we captured 
 insights and experiences from implementing Data Mesh at Roche, one of the world's
@@ -63,7 +67,8 @@ largest healthcare companies.
 [Get the free eBook](https://www.thoughtworks.com/en-de/insights/e-books/data-mesh-in-practice) at ThoughtWorks
 
 
-**Data Mesh Principles**, by Zhamak Dehghani
+**Data Mesh Principles**
+by Zhamak Dehghani
 
 In this foundational text, Zhamak Dehghani refines and encapsulates the core 
 principles of the Data Mesh approach (though she 
@@ -74,5 +79,5 @@ individual circumstances without falling victim to hype-based obfuscation or the
 "same thing, different name" fallacy, such as the recent antipattern of having 
 distinct "DevOps Teams" and "Development Teams".
 
-[Read the article](https://martinfowler.com/articles/data-mesh-principles.html).
+[Read the article](https://martinfowler.com/articles/data-mesh-principles.html). 
 If you want even more, the full-fledged book is also linked there.
