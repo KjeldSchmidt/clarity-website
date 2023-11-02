@@ -60,7 +60,7 @@ Ultimately, nothing beats real-world experience. In this free eBook, we captured
 insights and experiences from implementing Data Mesh at Roche, one of the world's
 largest healthcare companies.
 
-[Get the free eBook](https://www.thoughtworks.com/en-de/insights/e-books/data-mesh-in-practice) at ThoughtWorks
+[Get the free Data Mesh in Practice eBook here](https://www.thoughtworks.com/en-de/insights/e-books/data-mesh-in-practice).
 
 
 **Data Mesh Principles**
