@@ -14,8 +14,8 @@ Data Mesh in the last years, putting her at the forefront of this new
 technological paradigm. She has talked about the way to successful data at
 Big Data LDN, {Women Being Badass in Data, other things...}
 
-<a href="https://www.linkedin.com/in/ammara-gafoor/" class="icon alt fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-    <span class="label">LinkedIn</span>
+<a href="https://www.linkedin.com/in/ammara-gafoor/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+Find Ammara on LinkedIn
 </a>
 </p>
 
@@ -25,7 +25,7 @@ Kjeld is a software developer with a keen mind for simplicity and essentials.
 He advocates for human-driven development, open platforms and rapid 
 experimentation.
 
-<a href="https://www.linkedin.com/in/kjeld-schmidt/" class="icon alt fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-    <span class="label">LinkedIn</span>
+<a href="https://www.linkedin.com/in/kjeld-schmidt/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+Find Kjeld on LinkedIn
 </a>
 </p>
