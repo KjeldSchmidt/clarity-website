@@ -1,9 +1,9 @@
 ---
 layout: post
-title: About
+title: About Us
 image: assets/images/ammara-being-cool.jpg
 nav-menu: true
-description: Our background 
+description: Our background, experience and values
 ---
 
 <p>
