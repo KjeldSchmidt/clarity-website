@@ -2,7 +2,6 @@
 title: Clarity
 subtitle: by Ammara Gafoor and Kjeld Schmidt
 email: youremailaddress@gmail.com
-description:
 baseurl: "/clarity-website" # the subpath of your site, e.g. /blog
 url: https://kjeld-schmidt.com # the base hostname & protocol for your site
 author: Ammara Gafoor and Kjeld Schmidt
