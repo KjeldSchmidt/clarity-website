@@ -5,12 +5,7 @@ email: contact@kjeld-schmidt.com
 baseurl: "/clarity-website" # the subpath of your site, e.g. /blog
 url: https://kjeld-schmidt.com # the base hostname & protocol for your site
 author: Ammara Gafoor and Kjeld Schmidt
-#street_address:
-city: Cologne
-#state:
-#zip_code:
-country: Germany
-#phone:
+formspree-url: https://formspree.io/f/mjvqzyge
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
