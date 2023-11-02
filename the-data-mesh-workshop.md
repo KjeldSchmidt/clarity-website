@@ -15,8 +15,9 @@ required to evaluate, advocate for, and implement a data mesh transition.
 
 **Date:** November 25th\
 **Time:** 09:00-16:00\
-**Location:** Lichtstraße 43i,
-50825 Köln
+**Location:** Lichtstraße 43i, 50825 Köln
+
+**Registration:** [via Eventbrite](http://insert-link.here)
 
 ### Why Data Mesh Matters 💡
 
@@ -74,8 +75,6 @@ By the end of this workshop, you'll leave with:
   together by applying your newfound knowledge to existing data projects.
 - **Hangout and Networking:** Dedicated time to chat, reflect and connect.
 
-**Limited spots available - Grab a place now!**
+**Limited spots available - [Grab a place now at Eventbrite](http://insert-link.here)!**
 
-For inquiries, use our contact form below. 
-
-To register, visit our [Eventbrite page](http://insert-link.here).
+For any questions, use our contact form below.
