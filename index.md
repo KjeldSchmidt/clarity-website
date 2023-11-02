@@ -1,7 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Join our upcoming Data Mesh Workshop'
+landing-title: 'Data Mesh Workshop, Nov 25th.'
+link-button-text: 'Join us'
+link-button-target: 'the-data-mesh-workshop.html'
 description: null
 image: null
 author: null
