@@ -1,8 +1,6 @@
 .person {
-	> p {
-		display: flex;
-		align-items: center;
-	}
+	display: flex;
+	align-items: center;
 
 	&.left {
 		justify-content: flex-start;

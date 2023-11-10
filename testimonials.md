@@ -8,12 +8,15 @@ nav-menu: true
 
 <div markdown="1">
 
-<div class="person" markdown="1">
+<div class="person left">
+<span class="image small round" markdown="1">
+    ![Picture of Scott Hirleman](https://media.licdn.com/dms/image/D5603AQFIRYrsEKB9Vw/profile-displayphoto-shrink_400_400/0/1684693862845?e=1704931200&v=beta&t=mrKKkJP0S5-4O2MgxKgCj75ZFpGIERmiZsW-FVwX1sA)
+</span>
+
+<span markdown="1">
 [Scott Hirleman](https://www.linkedin.com/in/scotthirleman/) 
 (CEO of Data Mesh Understanding, Data Mesh Evangelist and Host of [Data Mesh Radio](https://daappod.com/data-mesh-radio/))
-    <span class="image small round">
-        <img src="https://media.licdn.com/dms/image/D5603AQFIRYrsEKB9Vw/profile-displayphoto-shrink_400_400/0/1684693862845?e=1704931200&v=beta&t=mrKKkJP0S5-4O2MgxKgCj75ZFpGIERmiZsW-FVwX1sA" alt="Picture of Scott Hirleman" />
-    </span>
+</span>
 </div>
 
 > I don't know if I've learned more about data mesh in any single conversation 
