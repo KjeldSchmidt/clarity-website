@@ -6,7 +6,7 @@ nav-menu: true
 description: Our background, experience and values
 ---
 
-<p markdown="1">
+<p markdown="block">
 <span class="image left"><img src="{% link assets/images/ammara-headshot.jpg %}" alt="" /></span>
 
 ### *Ammara Gafoor* -  Data Lead Healthcare & Life Sciences Europe at [Thoughtworks](https://thoughtworks.com)
