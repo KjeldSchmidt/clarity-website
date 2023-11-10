@@ -1,12 +1,10 @@
 ---
-title: The Data Mesh Workshop
+title: "Workshop: Data Mesh for Business, Tech and Product Leaders"
 layout: post
 description: 'Our in-person, hands-on Data Mesh workshop. November 25th in Cologne.'
 image: assets/images/workshop.jpg
 nav-menu: true
 ---
-
-## Data Mesh for Business, Tech and Product Leaders
 
 Data Mesh is a powerful approach to data architecture in complex data
 architectures - when done right, it can pave the way to fast and powerful data
