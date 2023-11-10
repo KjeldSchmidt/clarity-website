@@ -43,7 +43,7 @@
 			max-width: _size(inner);
 			width: calc(100% - 6em);
 
-			:not(a, strong, b, span, em, i):after {
+			:not(a, strong, b, span, em, i, h2, h3, h4):after {
 				content: "";
 				display: table;
 				clear: both;
