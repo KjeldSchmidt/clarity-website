@@ -36,11 +36,16 @@ Ammara has spoken about Data Projects at many places, including
 
 <div markdown="1">
 
-### **Kjeld Schmidt** -  Automation Advocate and Senior Developer at [Thoughtworks](https://thoughtworks.com)
+### **Kjeld Schmidt** - Automation Advocate and Senior Developer at [Thoughtworks](https://thoughtworks.com)
 
 Kjeld is a software developer with a keen mind for simplicity and essentials.
 He advocates for human-driven development, open platforms and rapid 
-experimentation.
+experimentation. He has worked in diverse fields, from large Augmented Reality 
+art exhibitions to cryptographically secure automotive firmware delivery.
+
+He has spoken at [XConf](https://www.youtube.com/watch?v=d4tBLzQlRGU) and can
+frequently be found at [SoCraTes Conferences](https://www.socrates-conference.de/home)
+around Europe.
 
 [Find Kjeld on LinkedIn](https://www.linkedin.com/in/kjeld-schmidt/)
 </div>
