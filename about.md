@@ -6,9 +6,12 @@ nav-menu: true
 description: Our background, experience and values
 ---
 
-<p markdown="block">
-<span class="image left"><img src="{% link assets/images/ammara-headshot.jpg %}" alt="" /></span>
+<div>
+<span class="image left">
+    <img src="{% link assets/images/ammara-headshot.jpg %}" alt="" />
+</span>
 
+<div markdown="1">
 ### *Ammara Gafoor* -  Data Lead Healthcare & Life Sciences Europe at [Thoughtworks](https://thoughtworks.com)
 
 Ammara is a principal technology consultant, specializing at the intersection of
@@ -22,11 +25,12 @@ before shaping the 'how' of solutions.
 Ammara has spoken about Data Projects at many places, including
 
 - [Big Data LDN](https://bigdataldn.com/) 2023
-- DataIQ 100 - Most influential people in data
-- Women being badass in Big Data
+  - DataIQ 100 - Most influential people in data
+  - Women being badass in Big Data
 
 [Find Ammara on LinkedIn](https://www.linkedin.com/in/ammara-gafoor/)
-</p>
+</div>
+</div>
 
 <p markdown="1">
 <span class="image right"><img src="{% link assets/images/kjeld-headshot.jpg %}" alt="" /></span>
