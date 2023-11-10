@@ -1,5 +1,6 @@
 ---
 title: Data Mesh Resources
+menu-title: Data Mesh Resources
 layout: post
 description: 'Talks, articles and other informative resources about Data Mesh.'
 image: assets/images/scattered-books.jpg

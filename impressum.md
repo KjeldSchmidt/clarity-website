@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Impressum
+menu-title: Impressum
 description: Legal Information
 show_tile: false
 nav-menu: true

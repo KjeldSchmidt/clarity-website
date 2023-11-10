@@ -1,5 +1,6 @@
 ---
 title: Testimonials
+menu-title: Testimonials
 layout: post
 description: 'Data Mesh success stories'
 image: assets/images/happy-balloons.jpg
