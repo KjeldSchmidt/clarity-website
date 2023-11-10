@@ -8,10 +8,10 @@ nav-menu: true
 
 <div markdown="1">
 
-<div>
+<div markdown="1">
 [Scott Hirleman](https://www.linkedin.com/in/scotthirleman/) 
 (CEO of Data Mesh Understanding, Data Mesh Evangelist and Host of [Data Mesh Radio](https://daappod.com/data-mesh-radio/))
-    <span class="image left">
+    <span class="image left small round">
         <img src="https://media.licdn.com/dms/image/D5603AQFIRYrsEKB9Vw/profile-displayphoto-shrink_400_400/0/1684693862845?e=1704931200&v=beta&t=mrKKkJP0S5-4O2MgxKgCj75ZFpGIERmiZsW-FVwX1sA" alt="Picture of Scott Hirleman" />
     </span>
 </div>

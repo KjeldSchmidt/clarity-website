@@ -50,6 +50,18 @@ img {
 			}
 		}
 
+		&.small {
+			img {
+				max-height: 150px;;
+			}
+		}
+
+		&.round {
+			img {
+				border-radius: 50%;
+			}
+		}
+
 		&.main {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
