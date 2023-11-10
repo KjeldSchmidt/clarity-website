@@ -6,8 +6,20 @@ image: assets/images/scattered-books.jpg
 nav-menu: true
 ---
 
+**Data Mesh in Practice**  
+By Ammara Gafoor, Ian Murdoch and Kiran Prakash
+
+Ultimately, nothing beats real-world experience. In this free eBook, we captured
+insights and experiences from implementing Data Mesh at Roche, one of the world's
+largest healthcare companies.
+
+[Get the free Data Mesh in Practice eBook here](https://www.thoughtworks.com/en-de/insights/e-books/data-mesh-in-practice).
+
+---
+
+
 **Data Mesh Accelerate Workshop**  
-A workshop outline by Paulo Caroli and Steve Upton.
+A workshop outline by Paulo Caroli and Steve Upton, based on Ammara Gafoor's workshops
 
 When an organisation actually wants to commit to a Data Mesh strategy, there are
 important decisions to be made and goals to be aligned. A core tenant of the
@@ -15,14 +27,33 @@ Data Mesh principles is the empowerment of teams, but the right environment
 needs to be created, and there still needs to be a common understanding of the 
 measures of success.
 
-This article gives you the tools to run an internal workshop which marks 
-the transition of your organisation going from "talking about Data Mesh" to 
-"Committing to Data Mesh".
+Based on over twenty successful Data Mesh workshops, this article gives you the
+tools to run an internal workshop which marks the transition of your
+organisation going from "talking about Data Mesh" to "Committing to Data Mesh".
 
 Read [Data Mesh Accelerate Workshop](https://martinfowler.com/articles/data-mesh-accelerate-workshop.html) 
 on Martin Fowler's website.
 
 ---
+
+
+**Data Mesh Principles**  
+By Zhamak Dehghani
+
+In this foundational text, Zhamak Dehghani refines and encapsulates the core
+principles of the Data Mesh approach (though she
+[coined the term a year before](https://martinfowler.com/articles/data-monolith-to-mesh.html)).
+
+Understanding the core fundamentals is essential to understand how to adapt to
+individual circumstances without falling victim to hype-based obfuscation or the
+"same thing, different name" fallacy, such as the recent antipattern of having
+distinct "DevOps Teams" and "Development Teams".
+
+[Read the article](https://martinfowler.com/articles/data-mesh-principles.html).
+If you want even more, the full-fledged book is also linked there.
+
+---
+
 
 **Why Data Mesh and How to Make it a Reality**  
 A webinar by Data Mesh Experts from Collibra, Roche, Accenture and Thoughtworks
@@ -37,6 +68,7 @@ A webinar by Data Mesh Experts from Collibra, Roche, Accenture and Thoughtworks
 [Watch the Webinar](https://www.collibra.com/us/en/resources/why-data-mesh-and-how-to-make-it-a-reality)
 
 ---
+
 
 **Surfacing reliability SLIs and SLOs can boost adoption**  
 With founder and CEO of Monte Carlo, Barr Moses
@@ -59,34 +91,6 @@ for your Data Products](https://www.thoughtworks.com/insights/blog/data-strategy
 
 ---
 
-**Data Mesh in Practice**  
-With Ammara Gafoor
-
-Ultimately, nothing beats real-world experience. In this free eBook, we captured 
-insights and experiences from implementing Data Mesh at Roche, one of the world's
-largest healthcare companies.
-
-[Get the free Data Mesh in Practice eBook here](https://www.thoughtworks.com/en-de/insights/e-books/data-mesh-in-practice).
-
-
----
-
-**Data Mesh Principles**  
-By Zhamak Dehghani
-
-In this foundational text, Zhamak Dehghani refines and encapsulates the core 
-principles of the Data Mesh approach (though she 
-[coined the term a year before](https://martinfowler.com/articles/data-monolith-to-mesh.html)).
-
-Understanding the core fundamentals is essential to understand how to adapt to
-individual circumstances without falling victim to hype-based obfuscation or the
-"same thing, different name" fallacy, such as the recent antipattern of having 
-distinct "DevOps Teams" and "Development Teams".
-
-[Read the article](https://martinfowler.com/articles/data-mesh-principles.html). 
-If you want even more, the full-fledged book is also linked there.
-
----
 
 **A Streamlined Developer Experience in Data Mesh**  
 By Manisha Jain
