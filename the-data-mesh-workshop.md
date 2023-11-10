@@ -6,7 +6,7 @@ image: assets/images/workshop.jpg
 nav-menu: true
 ---
 
-## Unlock the Power of Data Mesh: A Workshop for Data Conscious Leadership
+## Data Mesh for Business, Tech and Product Leaders
 
 Data Mesh is a powerful approach to data architecture in complex data
 architectures - when done right, it can pave the way to fast and powerful data
@@ -37,7 +37,7 @@ At our workshop, you'll learn how to harness the power of Data Mesh to:
 
 The workshop, content and exercises are tailored for  
 
-- Business professionals working on data rich projects
+- Business professionals and Product Owners working on data rich projects
 - BI professionals
 - Business and Tech leads
 - Tech Adjacent roles: Business Analysts, QA's, XD's, UX professionals
@@ -64,16 +64,20 @@ By the end of this workshop, you'll leave with:
 - **Introduction to Data Products:** Dive into the concept of treating data as a
   product, and learn how this shift in mindset can elevate your data
   initiatives.
-- **Hands-on Session: Hypothesis-Driven Development & Identifying Data
-  Products:** Develop a structured approach to data product creation, starting
+- **Hands-on Session: Use cases and hypothesis driven development:** Develop a
+  structured approach to data product creation, starting
   with hypothesis-driven development and identifying data products based on
   real-world use cases.
-- **Hands-on Session: Data Product Interaction Maps & Usage Patterns:** Learn
+- **Lunch break:** Provided on location
+- **Hands-on Session: Identifying and designing data products:** Learn
   how to design data products effectively and identify usage patterns that drive
   value.
 - **Wrap-Up: Applying Learnings to Your Current Data Projects:** Tie everything
   together by applying your newfound knowledge to existing data projects.
 - **Hangout and Networking:** Dedicated time to chat, reflect and connect.
+
+We will provide you with workshop materials, data mesh resources and materials,
+lunch and drinks.
 
 **Limited spots available - [Grab a place now at Eventbrite](http://insert-link.here)!**
 
