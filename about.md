@@ -21,11 +21,11 @@ consistently aiming for and achieving shorter lead times to business outcomes by
 10-30%. She distinguishes herself by addressing the underlying 'why' of issues 
 before shaping the 'how' of solutions.
 
-Ammara has spoken about Data Projects at many places, including
+Ammara has spoken about Data Projects at many occasions, including
 
 - [Big Data LDN](https://bigdataldn.com/) 2023
 - DataIQ 100 - Most influential people in data
-- Women being badass in Big Data
+- [Women Being Badass in Data](https://www.meetup.com/de-DE/women-in-big-data-nrw/events/291516752/)
 
 [Find Ammara on LinkedIn](https://www.linkedin.com/in/ammara-gafoor/)
 </div>
