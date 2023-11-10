@@ -7,12 +7,11 @@ description: Our background, experience and values
 ---
 
 <div>
-<span class="image left">
-    <img src="{% link assets/images/ammara-headshot.jpg %}" alt="" />
-</span>
+<span class="image left"><img src="{% link assets/images/ammara-headshot.jpg %}" alt="" /></span>
 
 <div markdown="1">
-### *Ammara Gafoor* -  Data Lead Healthcare & Life Sciences Europe at [Thoughtworks](https://thoughtworks.com)
+
+### **Ammara Gafoor** -  Data Lead Healthcare & Life Sciences Europe at [Thoughtworks](https://thoughtworks.com)
 
 Ammara is a principal technology consultant, specializing at the intersection of
 healthcare/pharma and data. She is an expert on Data Products, Data Mesh, Data 
@@ -32,14 +31,17 @@ Ammara has spoken about Data Projects at many places, including
 </div>
 </div>
 
-<p markdown="1">
+<div>
 <span class="image right"><img src="{% link assets/images/kjeld-headshot.jpg %}" alt="" /></span>
 
-### *Kjeld Schmidt* -  Automation Advocate and Senior Developer at [Thoughtworks](https://thoughtworks.com)
+<div markdown="1">
+
+### **Kjeld Schmidt** -  Automation Advocate and Senior Developer at [Thoughtworks](https://thoughtworks.com)
 
 Kjeld is a software developer with a keen mind for simplicity and essentials.
 He advocates for human-driven development, open platforms and rapid 
 experimentation.
 
 [Find Kjeld on LinkedIn](https://www.linkedin.com/in/kjeld-schmidt/)
-</p>
+</div>
+</div>
