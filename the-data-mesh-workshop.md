@@ -1,5 +1,6 @@
 ---
 title: "Workshop: Data Mesh for Business, Tech and Product Leaders"
+menu-title: Data Mesh Workshop
 layout: post
 description: 'Our in-person, hands-on Data Mesh workshop. November 25th in Cologne.'
 image: assets/images/workshop.jpg
