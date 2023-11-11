@@ -199,8 +199,11 @@
 
 			.logo {
 				padding: 0 1em;
+				span {
+					display: none;
+				}
 			}
-
+			
 			nav {
 				a {
 					padding: 0 0.5em;
