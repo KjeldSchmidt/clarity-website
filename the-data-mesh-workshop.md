@@ -13,7 +13,7 @@ product development. In this hands-on workshop, you will learn the essentials
 required to evaluate, advocate for, and implement a data mesh transition.
 
 **Date:** November 25th\
-**Time:** 09:00-16:00\
+**Time:** 09:30-17:30\
 **Location:** Lichtstraße 43i, 50825 Köln
 
 **Registration:** [via Eventbrite](http://insert-link.here)
