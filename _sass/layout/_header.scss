@@ -13,6 +13,7 @@
 
 	#header {
 		@include vendor('display', 'flex');
+		flex-wrap: wrap;
 		background-color: _palette(bg-alt);
 		box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);
 		cursor: default;
@@ -27,6 +28,10 @@
 		top: 0;
 		width: 100%;
 		z-index: _misc(z-index-base);
+
+		.highlight {
+			padding: 0 1.5em;
+		}
 
 		.logo {
 			border: 0;
