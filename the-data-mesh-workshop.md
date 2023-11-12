@@ -16,7 +16,7 @@ required to evaluate, advocate for, and implement a data mesh transition.
 **Time:** 09:30-17:30\
 **Location:** Lichtstraße 43i, 50825 Köln
 
-**Registration:** [via Eventbrite](http://insert-link.here)
+**Registration:** [via Eventbrite](https://www.eventbrite.de/e/data-mesh-for-business-tech-and-product-leaders-tickets-741963110637)
 
 ### Why Data Mesh Matters 💡
 
@@ -78,6 +78,6 @@ By the end of this workshop, you'll leave with:
 We will provide you with workshop materials, data mesh resources and materials,
 lunch and drinks.
 
-**Limited spots available - [Grab a place now at Eventbrite](http://insert-link.here)!**
+**Limited spots available - [Grab a place now at Eventbrite](https://www.eventbrite.de/e/data-mesh-for-business-tech-and-product-leaders-tickets-741963110637)!**
 
 For any questions, use our contact form below.
