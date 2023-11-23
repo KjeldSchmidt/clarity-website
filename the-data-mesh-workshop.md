@@ -7,6 +7,8 @@ image: assets/images/workshop.jpg
 nav-menu: true
 ---
 
+**Registration period has ended.**
+
 "Data Mesh is a business goals driven approach to thinking about data. In a 
 world of complex data architectures - data mesh, when done right, can pave the 
 way to fast and powerful data driven outcomes. In this hands-on workshop, you 
